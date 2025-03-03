@@ -37,3 +37,6 @@ This is a weather forecasting web app built using React.js, Redux, Redux-Saga, a
 2. Type a city name in the search bar and click the "Search" button.
 3. The weather data for the city will be displayed, including temperature, humidity, and wind speed.
 
+![Screenshot 2025-03-03 163637](https://github.com/user-attachments/assets/5b63d503-415b-40e2-af88-631ff9d6b5f7)
+
+
